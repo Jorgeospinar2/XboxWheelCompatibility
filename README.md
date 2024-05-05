@@ -1,3 +1,6 @@
+## **Archived**
+***Software still works on 90% of machines, but will no longer be supported. Feel free to fork. Use latest v1.2.1.***
+
 # Xbox Wheel Compatibility
 A simple tool to make using unsupported Xbox racing wheels work on Windows 10/11
 
