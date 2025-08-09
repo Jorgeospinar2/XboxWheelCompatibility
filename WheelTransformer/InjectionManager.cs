@@ -36,9 +36,9 @@ namespace XboxWheelCompatibility.WheelTransformer
                             (WheelReading.Buttons.HasFlag(RacingWheelButtons.Button5) ? (int)GamepadButtons.X : 0) +
                             (WheelReading.Buttons.HasFlag(RacingWheelButtons.Button6) ? (int)GamepadButtons.Y : 0)
                         ),
-                        WheelReading.Brake, WheelReading.Throttle,
+                        WheelReading.Brake, 0,
                         WheelReading.Wheel, 0,
-                        0, 0
+                        WheelReading.Throttle, 0
                     )
                 )
             );
